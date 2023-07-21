@@ -1,0 +1,9 @@
+beautifulsoup4==4.12.2
+lxml==4.9.3
+mammoth==1.6.0
+python-dateutil==2.8.2
+requests==2.31.0
+selenium==4.10.0
+selenium-stealth==1.0.6
+SQLAlchemy==2.0.19
+webdriver-manager==3.8.6
